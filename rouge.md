@@ -12,3 +12,8 @@ The following five evaluation metrics are available.
 * ROUGE-W: Weighted LCS-based statistics that favors consecutive LCSes .
 * ROUGE-S: Skip-bigram[5] based co-occurrence statistics. Skip-bigram is any pair of words in their sentence order.
 * ROUGE-SU: Skip-bigram plus unigram-based co-occurrence statistics.
+
+
+## References
+1. https://en.wikipedia.org/wiki/ROUGE_(metric)
+2. http://www.aclweb.org/anthology/W04-1013
