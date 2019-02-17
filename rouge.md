@@ -15,5 +15,5 @@ The following five evaluation metrics are available.
 
 
 ## References
-1. [wiki](https://en.wikipedia.org/wiki/ROUGE_(metric)){:target="_blank"}
+1. [wiki](https://en.wikipedia.org/wiki/ROUGE_(metric))
 2. [ROUGE: A Package for Automatic Evaluation of Summaries](http://www.aclweb.org/anthology/W04-1013)
