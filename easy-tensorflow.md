@@ -83,3 +83,7 @@ with tf.Session() as sess:
     for tensor in tf.get_default_graph().get_operations():
         print (tensor.name)
 ```
+Now Run the code as
+```test.py```
+and also run the following code to visualize
+```tensorboard --logdir=graph_path```
