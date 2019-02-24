@@ -13,6 +13,7 @@ The task of an encoder network is to understand the input sequence, and create a
 
 In the image given above, the input sequence is “How are you”. So when such an input sequence is passed though the encoder-decoder network consisting of LSTM blocks (a type of RNN architecture), the decoder generates words one by one in each time step of the decoder’s iteration. After one whole iteration, the output sequence generated is “I am fine”.
 
+[Seq2seq Keras Implementation](https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py)
 
 ## References
 1. [https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/)
