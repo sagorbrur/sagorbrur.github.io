@@ -5,6 +5,7 @@ A bag-of-words is a representation of text that describes the occurrence of word
 
     1. A vocabulary of known words.
     2. A measure of the presence of known words.
+    
 # Example
 The following models a text document using bag-of-words. Here are two simple text documents:
 
@@ -17,7 +18,10 @@ Based on these two text documents, a list constructed as follows for each docume
        "John","likes","to","watch","movies","Mary","likes","movies","too"
 
         "John","also","likes","to","watch","football","games"
+       
+       
 Representing each bag-of-words as a JSON object, and attributing to the respective Javascript variable:
+
 
         BoW1 = {"John":1,"likes":2,"to":1,"watch":1,"movies":2,"Mary":1,"too":1};
         BoW2 = {"John":1,"also":1,"likes":1,"to":1,"watch":1,"football":1,"games":1};
