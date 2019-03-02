@@ -21,7 +21,11 @@ Representing each bag-of-words as a JSON object, and attributing to the respecti
 
         BoW1 = {"John":1,"likes":2,"to":1,"watch":1,"movies":2,"Mary":1,"too":1};
         BoW2 = {"John":1,"also":1,"likes":1,"to":1,"watch":1,"football":1,"games":1};
+
+
 Each key is the word, and each value is the number of occurrences of that word in the given text document. 
+
+
 # Create Bag of Word corpus using gensim
 
 ```python
