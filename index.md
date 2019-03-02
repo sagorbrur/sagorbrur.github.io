@@ -3,6 +3,7 @@ Hello! This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/), an ent
 I am currently working as a Researcher and Developer at [Semantics lab](http://semanticslab.net/)
 # NLP-Blog
 * [Bag of Words](bow.md)
+* [N-Gram](ngram.md)
 * [Sequence to Sequence Model](seq2seq-model)
 * [Easy Tensorflow Model](easy-tensorflow.md)
 ## Metrices
