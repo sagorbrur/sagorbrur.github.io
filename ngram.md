@@ -26,11 +26,17 @@ def generate_ngrams(text, n):
 ```python
 import re
 from nltk.util import ngrams
-
+s='Hi, My Name is Sagor.'
 s = s.lower()
 s = re.sub(r'[^a-zA-Z0-9\s]', ' ', s)
 tokens = [token for token in s.split(" ") if token != ""]
 output = list(ngrams(tokens, 5))
+print(output)
+
+#>[('Hi,', 'My', 'Name', 'is', 'Sagor.')]
+
+#change 5 into 1, 2 or 3 and watch the output
+
 
 ```
 
