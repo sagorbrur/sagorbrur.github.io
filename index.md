@@ -9,6 +9,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Easy Tensorflow Model](easy-tensorflow.md)
 
 ## Bengali-NLP
+* [Bengali Tokenization](bengali-tokenization.md)
 ## Metrices
 * [ROUGE](rouge.md)
 
