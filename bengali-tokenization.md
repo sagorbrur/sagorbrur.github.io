@@ -14,3 +14,7 @@ print(bengali_text_tokenize)
 #output: ['আমার', 'সোনার', 'বাংলা', 'আমি', 'তোমায়', 'ভালোবাসি', '।']
 
 ```
+
+
+## References
+[http://docs.cltk.org/en/latest/bengali.html](http://docs.cltk.org/en/latest/bengali.html)
