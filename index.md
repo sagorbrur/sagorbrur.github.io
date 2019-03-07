@@ -7,6 +7,8 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Word Embedding](word-embedding.md)
 * [Sequence to Sequence Model](seq2seq-model)
 * [Easy Tensorflow Model](easy-tensorflow.md)
+
+## Bengali-NLP
 ## Metrices
 * [ROUGE](rouge.md)
 
