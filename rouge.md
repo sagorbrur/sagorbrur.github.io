@@ -27,7 +27,8 @@ the cat was under the bed
  
 System Summary Bigrams:
 
-```the cat, 
+```
+the cat, 
 cat was, 
 was found, 
 found under, 
