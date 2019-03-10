@@ -60,7 +60,7 @@ Now the ROUGE-2 precision is as follows:
 The precision here tells us that out of all the system summary bigrams, there is a 67% overlap with the reference summary. 
 
 # Python code for calculating ROUGE value
-Code was copied from [this](https://github.com/pcyin/PyRouge/tree/master/PyRouge) github repository.
+Code was copied from [this](https://github.com/pcyin/PyRouge) github repository.
 Clone that repository and run the following example from that directory
 
 ```python
