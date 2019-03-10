@@ -48,12 +48,12 @@ the bed
 
 Based on the bigrams above, the ROUGE-2 recall is as follows:
 
-![alt text](https://github.com/sagorbrur/sagorbrur.github.io/blob/master/assets/images/rouge.PNG)
+![Rouge Recall](https://github.com/sagorbrur/sagorbrur.github.io/blob/master/assets/images/rouge.PNG)
 
 Essentially, the system summary has recovered 4 bigrams out of 5 bigrams from the reference summary which is pretty good! 
 Now the ROUGE-2 precision is as follows:
 
-![rouge_precision ](https://github.com/sagorbrur/sagorbrur.github.io/blob/master/assets/images/rouge1.PNG)
+![Rouge_Precision ](https://github.com/sagorbrur/sagorbrur.github.io/blob/master/assets/images/rouge1.PNG)
 
 The precision here tells us that out of all the system summary bigrams, there is a 67% overlap with the reference summary. 
 
@@ -73,12 +73,19 @@ manual_summmary = "The use of invisible ink and ultraviolet readers in the elect
 [precision, recall, f_score] = r.rouge_l([system_generated_summary], [manual_summmary])
 
 print("Precision is :"+str(precision)+"\nRecall is :"+str(recall)+"\nF Score is :"+str(f_score))
+
+#output
+"""
+Precision is :0.446058091286
+Recall is :0.439672801636
+F Score is :0.442843380487
+"""
 ```
 
 
 
 
 ## References
-1. [wiki](https://en.wikipedia.org/wiki/ROUGE_(metric))
+1. [https://en.wikipedia.org/wiki/ROUGE_(metric)](https://en.wikipedia.org/wiki/ROUGE_(metric))
 2. [ROUGE: A Package for Automatic Evaluation of Summaries](http://www.aclweb.org/anthology/W04-1013)
 3. [https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.XIU30Sgza1s](https://rxnlp.com/how-rouge-works-for-evaluation-of-summarization-tasks/#.XIU30Sgza1s)
