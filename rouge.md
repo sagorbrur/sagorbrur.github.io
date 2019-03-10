@@ -39,7 +39,8 @@ the bed
  
 Reference Summary Bigrams:
 
-```the cat, 
+```
+the cat, 
 cat was, 
 was under, 
 under the, 
