@@ -13,3 +13,8 @@ candidate = ['this', 'is', 'a', 'test']
 score = sentence_bleu(reference, candidate)
 print(score)
 ```
+
+
+## References
+1. [https://en.wikipedia.org/wiki/BLEU](https://en.wikipedia.org/wiki/BLEU)
+2. [https://machinelearningmastery.com/calculate-bleu-score-for-text-python/](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
