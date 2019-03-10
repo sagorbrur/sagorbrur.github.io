@@ -12,6 +12,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Bengali Tokenization](bengali-tokenization.md)
 ## Metrices
 * [ROUGE](rouge.md)
+* [BLEU](bleu.md)
 
 # Research Paper Review
 
