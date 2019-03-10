@@ -18,3 +18,4 @@ print(score)
 ## References
 1. [https://en.wikipedia.org/wiki/BLEU](https://en.wikipedia.org/wiki/BLEU)
 2. [https://machinelearningmastery.com/calculate-bleu-score-for-text-python/](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
+3. [http://www.aclweb.org/anthology/P02-1040.pdf](http://www.aclweb.org/anthology/P02-1040.pdf)
