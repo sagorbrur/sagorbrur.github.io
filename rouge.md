@@ -50,12 +50,12 @@ the bed
 
 Based on the bigrams above, the ROUGE-2 recall is as follows:
 
-![Rouge Recall](https://github.com/sagorbrur/sagorbrur.github.io/blob/master/assets/images/rouge.PNG)
+![Rouge Recall](rouge.PNG)
 
 Essentially, the system summary has recovered 4 bigrams out of 5 bigrams from the reference summary which is pretty good! 
 Now the ROUGE-2 precision is as follows:
 
-![Rouge_Precision ](https://github.com/sagorbrur/sagorbrur.github.io/blob/master/assets/images/rouge1.PNG)
+![Rouge_Precision ](rouge1.PNG)
 
 The precision here tells us that out of all the system summary bigrams, there is a 67% overlap with the reference summary. 
 
