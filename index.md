@@ -2,6 +2,7 @@
 Hello! This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/), an enthusiastic artificial initelligence learner.
 I am currently working as a Researcher and Developer at [Semantics lab](http://semanticslab.net/)
 # NLP-Blog
+* [Tokenization](tokenization.md)
 * [Bag of Words](bow.md)
 * [N-Gram](ngram.md)
 * [Word Embedding](word-embedding.md)
