@@ -15,6 +15,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 ## Metrices
 * [ROUGE](rouge.md)
 * [BLEU](bleu.md)
+* [METEOR](meteor.md)
 
 # Research Paper Review
 
