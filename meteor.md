@@ -15,9 +15,10 @@ Meteor consists of two major components:
 From the two alignments shown, alignment (a) would be selected at this point. Stages are run consecutively and each stage only adds to the alignment those unigrams which have not been matched in previous stages.
 
 
- ## Code Example 
- [This](https://github.com/tylin/coco-caption/tree/master/pycocoevalcap/meteor) is the link for calculating meteor value. 
- Clone this and run ```meteor.py```
+ ## Code Example
+ 
+ 
+[This](https://github.com/tylin/coco-caption/tree/master/pycocoevalcap/meteor) is the link for calculating meteor value. Clone this and run ```meteor.py```
  
  
 
