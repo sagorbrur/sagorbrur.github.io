@@ -17,6 +17,10 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [BLEU](bleu.md)
 * [METEOR](meteor.md)
 
+
+# Python Bengali Blog
+* 
+
 # Research Paper Review
 
 
