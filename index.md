@@ -19,7 +19,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 
 
 # Python Bengali Blog
-* 
+* [Shutil](python_bn/shutil.md)
 
 # Research Paper Review
 
