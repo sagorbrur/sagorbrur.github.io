@@ -47,8 +47,8 @@ Although google colab has all the dependencies library installed, you can instal
 
 ## Upload local file
 
-*You can upload local file by clicking the upload button which exist in your left side inside Files
-*Check and upload your local file
+* You can upload local file by clicking the upload button which exist in your left side inside Files
+* Check and upload your local file
 
 ```NB: file will automatically deleted after you closing the browser```
 
@@ -107,4 +107,9 @@ To test the project in colab write the command inside notebook
 That's the easiest way to train model from project scripts. 
 
 
+## Some Extra Points
+* After training download the logs or trained checkpoint file. Because when you close the browser it will automatically delete all files. 
+* The Ipython file will automatically saved inside your google drive. You can download the notebook from
+
+```File>Download .ipython or Download .py```
 
