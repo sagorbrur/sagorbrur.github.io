@@ -37,3 +37,74 @@ You can unzip anything just running the following command
 
 ```!git clone git_url```
 
+## Installing libraries
+Although google colab has all the dependencies library installed, you can install any library just running the command you run on bash
+
+```!pip install library_name```
+
+## Activating GPU
+* You can activate GPU from ```Edit>Notebook Settings>Hardware Accelerator>GPU```
+
+## Upload local file
+
+*You can upload local file by clicking the upload button which exist in your left side inside Files
+*Check and upload your local file
+
+```NB: file will automatically deleted after you closing the browser```
+
+## Run full project as python scripts
+Suppose we have directory with files, data , config
+
+```
+----Contents
+
+    ------train.py
+    
+    ------test.py
+    
+    ------data
+    
+          -----train.csv
+          
+          -----test.csv
+          
+    ------config
+    
+          ------config.config
+          
+    -------logs
+```
+
+Our config.config looks like
+
+```
+train_data = "data/train.csv"
+test_data = "data/test.csv"
+log_dir = "logs"
+epoch = 10
+mode = train
+
+```
+
+Our train command is 
+
+```python train.py --config_file config/config.config```
+
+and Test command is 
+
+```python test.py --config-file config/config.config```
+
+To train the project in colab write the commnad inside notebook
+
+```!python train.py --config_file config/config.config```
+
+It will train the model and save the checkpoint inside logs directory. From where you can download the checkpoint. 
+
+To test the project in colab write the command inside notebook
+
+```!python test.py --config-file config/config.config```
+
+That's the easiest way to train model from project scripts. 
+
+
+
