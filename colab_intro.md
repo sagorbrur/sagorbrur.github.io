@@ -37,6 +37,27 @@ You can unzip anything just running the following command
 
 ```!git clone git_url```
 
+## Download google drive data from colab
+
+For downloading your drive data from colab you have to run the following code from colab notebook. After running the code you will get a verification link from where you will get a code to paste in notebook. after finishing it will download the file in colab.
+
+```py
+
+#drive data download code
+!pip install -U -q PyDrive
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
+from google.colab import auth
+from oauth2client.client import GoogleCredentials
+auth.authenticate_user()
+gauth = GoogleAuth()
+gauth.credentials = GoogleCredentials.get_application_default()
+drive = GoogleDrive(gauth)
+downloaded = drive.CreateFile({'id':"file id"})   # replace the id with id of file you want to access
+downloaded.GetContentFile('file_name.csv') #Replace the name with your file name
+
+```
+
 ## Installing libraries
 Although google colab has all the dependencies library installed, you can install any library just running the command you run on bash
 
