@@ -58,6 +58,26 @@ downloaded.GetContentFile('file_name.csv') #Replace the name with your file name
 
 ```
 
+## Changing Working Directory
+
+```
+%cd Directory_Name
+
+```
+
+To check 
+
+```
+!pwd
+
+```
+
+Swtiching back to root folder:
+
+```
+!cd ..
+```
+
 ## Installing libraries
 Although google colab has all the dependencies library installed, you can install any library just running the command you run on bash
 
