@@ -1,6 +1,6 @@
 # How To Install Rouge (pyrouge) in Ubuntu 16.04
 
-## Installing Perl
+## Installing Perl and Rouge
 
 ```
 sudo apt-get install perl
@@ -49,4 +49,27 @@ cd ../
 ln -s WordNet-2.0-Exceptions/WordNet-2.0.exc.db WordNet-2.0.exc.db
 ```
 
-Installing Rouge is done. 
+Rouge Installing has doen. !
+
+## Setting up pyrouge
+
+* Clone the pyrouge git and working directory
+
+```
+git clone https://github.com/bheinzerling/pyrouge.git
+cd pyrouge
+```
+* Install pyrouge using
+
+```
+python setup.py install
+```
+
+* Set the ROUGE path with the command
+
+```
+pyrouge_set_rouge_path /home/sagor/pyrouge/tools/ROUGE-1.5.5/
+```
+
+* To verify , pyrouge install successfully or not
+
