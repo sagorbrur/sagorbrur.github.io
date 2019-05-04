@@ -27,6 +27,7 @@ sudo apt-get install synaptic
 ![](syn_pac_3.png)
 
 * Download ROUGE-1.5.5 from [here](https://github.com/andersjo/pyrouge.git) You only need the ROUGE-1.5.5 directory. Do it in home directory.
+
 ```
 git clone https://github.com/andersjo/pyrouge.git
 cd pyrouge/tools/ROUGE-1.5.5
@@ -59,7 +60,9 @@ Rouge Installing has doen. !
 git clone https://github.com/bheinzerling/pyrouge.git
 cd pyrouge
 ```
+
 * Install pyrouge using
+
 
 ```
 python setup.py install
@@ -72,12 +75,14 @@ pyrouge_set_rouge_path /home/sagor/pyrouge/tools/ROUGE-1.5.5/
 ```
 
 * To verify , pyrouge install successfully or not
+
 ```
 python -m pyrouge.test
 
 ```
 
 if it show the output like below, then it's done to install pyrouge
+
 ```
 Ran 10 tests in 18.055s
 
