@@ -1,5 +1,7 @@
 # How To Install Rouge (pyrouge) in Ubuntu 16.04
 
+NB: To know about ROUGE check this [link](rouge.md)
+
 ## Installing Perl and Rouge
 
 ```
