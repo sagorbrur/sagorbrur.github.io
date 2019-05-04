@@ -90,3 +90,14 @@ OK
 ```
 
 if it's showing failed then [this](https://github.com/bheinzerling/pyrouge/issues/8) issues eduOS answer might solve this problem.
+
+* If Failed:
+
+```
+cd pyrouge/tools/ROUGE-1.5.5/data
+rm WordNet-2.0.exc.db
+./WordNet-2.0-Exceptions/buildExeptionDB.pl ./WordNet-2.0-Exceptions ./smart_common_words.txt ./WordNet-2.0.exc.db
+
+```
+
+
