@@ -87,6 +87,8 @@ F Score is :0.442843380487
 
 
 
+## Installing pyrouge in ubunut 16.04 follow this check [this](install_rouge.md) link. 
+
 ## References
 1. [https://en.wikipedia.org/wiki/ROUGE_(metric)](https://en.wikipedia.org/wiki/ROUGE_(metric))
 2. [ROUGE: A Package for Automatic Evaluation of Summaries](http://www.aclweb.org/anthology/W04-1013)
