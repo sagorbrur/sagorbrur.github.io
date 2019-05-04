@@ -72,4 +72,16 @@ pyrouge_set_rouge_path /home/sagor/pyrouge/tools/ROUGE-1.5.5/
 ```
 
 * To verify , pyrouge install successfully or not
+```
+python -m pyrouge.test
 
+```
+
+if it show the output like below, then it's done to install pyrouge
+```
+Ran 10 tests in 18.055s
+
+OK
+```
+
+if it's showing failed then [this](https://github.com/bheinzerling/pyrouge/issues/8) issues eduOS answer might solve this problem.
