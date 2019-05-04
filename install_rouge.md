@@ -101,3 +101,8 @@ rm WordNet-2.0.exc.db
 ```
 
 
+## References
+1. [https://poojithansl7.wordpress.com/2018/08/04/setting-up-rouge/](https://poojithansl7.wordpress.com/2018/08/04/setting-up-rouge/)
+2. [http://kavita-ganesan.com/rouge-howto/](http://kavita-ganesan.com/rouge-howto/)
+3. [https://stackoverflow.com/questions/28941839/how-to-install-rouge-in-ubuntu/28941840#28941840](https://stackoverflow.com/questions/28941839/how-to-install-rouge-in-ubuntu/28941840#28941840)
+
