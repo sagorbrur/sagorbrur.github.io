@@ -154,3 +154,19 @@ That's the easiest way to train model from project scripts.
 
 ```File>Download .ipython or Download .py```
 
+* To save a code cell as python script
+
+```
+%%%workfile myfile.py
+class myclass(object):
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
+        
+    def add_num(self):
+        return self.a+self.b
+        
+```
+
+
+
