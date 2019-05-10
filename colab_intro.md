@@ -157,7 +157,7 @@ That's the easiest way to train model from project scripts.
 * To save a code cell as python script
 
 ```
-%%%workfile myfile.py
+%%workfile myfile.py
 class myclass(object):
     def __init__(self, a, b):
         self.a = a
