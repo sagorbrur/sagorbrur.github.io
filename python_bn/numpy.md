@@ -71,3 +71,8 @@ b[0, 0] = 77     # b[0, 0] is the same piece of data as a[0, 1]
 print(a[0, 1])   # Prints "77"
 ```
 
+## Under development
+
+## References
+* [https://www.numpy.org/devdocs/user/quickstart.html](https://www.numpy.org/devdocs/user/quickstart.html)
+* [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
