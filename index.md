@@ -22,6 +22,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Shutil](python_bn/shutil.md)
 * [Random](python_bn/random.md)
 * [OS](python_bn/os_py.md)
+* [Numpy](python_bn/numpy.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](colab_intro.md)
