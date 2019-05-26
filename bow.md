@@ -29,6 +29,28 @@ Representing each bag-of-words as a JSON object, and attributing to the respecti
 
 Each key is the word, and each value is the number of occurrences of that word in the given text document. 
 
+# Bag of Word for word embedding
+In traditional way creating bag of word is so simple. 
+
+We have a fixed vocabulary set V which contains
+
+```
+V = ['Good', 'Bad','Ugli','Beautiful']
+```
+So for creating word embedding using BOW we initialize a one hot vector(contains all zero except positional one) 
+and it's `length = len(V)`
+
+So
+
+vector for good = [1 0 0 0] 
+
+Vector for Bad = [0 1 0 0]
+
+---------------- and so on.
+
+Here vector size = length of vocabulary set
+
+and 1 for position. 
 
 # Create Bag of Word corpus using gensim
 
@@ -54,3 +76,4 @@ pprint(mycorpus)
 ## References
 1. [https://en.wikipedia.org/wiki/Bag-of-words_model](https://en.wikipedia.org/wiki/Bag-of-words_model)
 2. [https://machinelearningmastery.com/gentle-introduction-bag-words-model/](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)
+3. [https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c](https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c)
