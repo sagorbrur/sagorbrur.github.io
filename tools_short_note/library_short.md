@@ -84,5 +84,6 @@ model.fit(x_train, y_train,
 ```
 
 ## References
-1. [https://keras.io/callbacks/](https://keras.io/callbacks/)
-2. [https://medium.com/singlestone/keras-callbacks-monitor-and-improve-your-deep-learning-205a8a27e91c](https://medium.com/singlestone/keras-callbacks-monitor-and-improve-your-deep-learning-205a8a27e91c)
+1. [https://www.tensorflow.org/guide/using_gpu](https://www.tensorflow.org/guide/using_gpu)
+2. [https://keras.io/callbacks/](https://keras.io/callbacks/)
+3. [https://medium.com/singlestone/keras-callbacks-monitor-and-improve-your-deep-learning-205a8a27e91c](https://medium.com/singlestone/keras-callbacks-monitor-and-improve-your-deep-learning-205a8a27e91c)
