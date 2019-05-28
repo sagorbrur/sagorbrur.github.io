@@ -76,7 +76,7 @@ model.fit(x_train, y_train,
 
 You can call multiple callbacks just like
 
-```
+```py
 model.fit(x_train, y_train,
           batch_size=batch_size,
           epochs=epochs,
