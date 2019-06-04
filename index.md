@@ -9,6 +9,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Sequence to Sequence Model](seq2seq-model)
 * [Easy Tensorflow Model](easy-tensorflow.md)
 * [Beam Search](beamsearch.md)
+* [Text Preprocessing](preprocessing/text_preprocessing.md)
 
 ## Bengali-NLP
 * [Bengali Tokenization](bengali-tokenization.md)
