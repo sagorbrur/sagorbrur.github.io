@@ -68,3 +68,36 @@ print (result)
 # output: ['NLTK', 'leading','platform', 'building', 'Python', 'programs', 'work','human', 'language', 'data', '.']
 
 ```
+
+### Stemming
+
+```py
+from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
+stemmer= PorterStemmer()
+input_str="There are several types of stemming algorithms."
+input_str=word_tokenize(input_str)
+for word in input_str:
+    print(stemmer.stem(word))
+    
+# output: there are sever type of stem algorithm.
+```
+
+### Lemmatization
+
+```py
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
+lemmatizer=WordNetLemmatizer()
+input_str="been had done languages cities mice"
+input_str=word_tokenize(input_str)
+for word in input_str:
+    print(lemmatizer.lemmatize(word))
+
+# output: be have do language city mouse
+```
+
+
+## References
+1. [https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
+2. [https://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string-in-python](https://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string-in-python)
