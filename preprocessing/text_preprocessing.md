@@ -1,7 +1,7 @@
 # Text Preprocessing
 It's important to preprocess text to make it machine understandable. 
 
-Like image after obtain text we need to normalize it. 
+Like image after obtaining text we need to normalize it. 
 
 ## Text Normalization
 
