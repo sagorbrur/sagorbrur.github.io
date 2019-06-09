@@ -73,4 +73,72 @@
 ['French', 'English', 'German', 'Spanish', 'Portuguese']
 ```
 
-### 
+### list.insert(i, x)
+
+লিস্টের i তম পজিশনে x ভ্যালু ইনসার্ট করার মেথুড এটি। 
+
+```py
+>>> vowel = ['a', 'e', 'i', 'u']
+>>> vowel.insert(3, 'o')
+>>> vowel
+['a', 'e', 'i', 'o', 'u']
+```
+
+### list.count(x)
+
+লিস্টের x আইটেম সংখ্যা কত আছে তা এই মেথুড দিয়ে বোঝা যাবে। 
+
+```py
+>>> fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+>>> fruits.count('apple')
+2
+```
+
+### list.reverse()
+
+লিস্টের আইটেমগুলোকে রিভার্স(উল্টা দিকে থেকে) করার মেথুড। 
+
+```py
+>>> fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+>>> fruits.reverse()
+>>> fruits
+['banana', 'apple', 'kiwi', 'banana', 'pear', 'apple', 'orange']
+```
+### list.index(x)
+
+x এর অবস্থান কততম তা এই মেথুড রেটার্ন করবে। 
+
+```py
+>>> fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+>>> fruits.index('banana')
+3
+```
+
+### Stack হিসেবে লিস্টের ব্যবহার
+
+লিস্টকে Stack হিসেবে ডাটা স্ট্রাকচারে ব্যবহার করা যাবে। মূলত স্ট্যাকে দুইটি বিষয় থাকে। **push** এবং **pop**. 
+Push করার জন্য আমরা ```list.append``` ব্যবহার করতে পারি আর pop করার জন্য ```list.pop()``` করতে পারি। 
+
+```py
+>>> stack = [3, 4, 5]
+>>> stack.append(6)
+>>> stack.append(7)
+>>> stack
+[3, 4, 5, 6, 7]
+>>> stack.pop()
+7
+>>> stack
+[3, 4, 5, 6]
+>>> stack.pop()
+6
+>>> stack.pop()
+5
+>>> stack
+[3, 4]
+
+```
+
+
+## References
+1. [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
+2. [https://docs.python.org/3/tutorial/introduction.html#lists](https://docs.python.org/3/tutorial/introduction.html#lists)
