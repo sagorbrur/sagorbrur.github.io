@@ -12,6 +12,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Text Preprocessing](preprocessing/text_preprocessing.md)
 
 ## About NLP Datasets
+* [Generate Synthetic Datasets](https://github.com/sagorbrur/Data_Generation)
 
 ## Bengali-NLP
 * [Bengali Tokenization](bengali-tokenization.md)
