@@ -22,6 +22,8 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [METEOR](meteor.md)
 
 
+# Computer Vision Blog
+
 
 # Python Bengali Blog
 * [Shutil](python_bn/shutil.md)
