@@ -52,6 +52,9 @@ Here vector size = length of vocabulary set
 
 and 1 for position. 
 
+# Creating Bag of Words Step by Step
+* [Bag of Words](https://github.com/sagorbrur/Text_Preprocessing/blob/master/Generate_Bag_of_Words.ipynb)
+
 # Create Bag of Word corpus using gensim
 
 ```python
