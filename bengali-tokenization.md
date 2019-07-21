@@ -1,20 +1,16 @@
 # Bengali Tokenization Using CLTK
 
 
-```python
-from cltk.tokenize.sentence import TokenizeSentence
 
-sentence = "আমার সোনার বাংলা আমি তোমায় ভালোবাসি।"
+```py
 
-tokenizer = TokenizeSentence('bengali')
+import re
 
-bengali_text_tokenize = tokenizer.tokenize(sentence)
+sentence = "রাজপণ্ডিত হব মনে আশা করে। সপ্তশ্লোক ভেটিলাম রাজা গৌড়েশ্বরে। শত কষ্টে রাজা একদিন হারিয়ে গেলেন...... কে ফেরাবে তাকে! শত চেষ্টাতেও রাণী তাকে ফেরাতে পারলেন না।"
 
-print(bengali_text_tokenize)
-#output: ['আমার', 'সোনার', 'বাংলা', 'আমি', 'তোমায়', 'ভালোবাসি', '।']
+input_text = re.sub(r'[,.:@#?!&$।]', ' ', sentence)
+# print(input_text)
+tokens = input_text.split()
+print(tokens)
 
 ```
-
-
-## References
-[http://docs.cltk.org/en/latest/bengali.html](http://docs.cltk.org/en/latest/bengali.html)
