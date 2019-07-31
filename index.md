@@ -32,6 +32,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Numpy](python_bn/numpy.md)
 * [list](python_bn/list.md)
 * [collections.Counter](python_bn/collections_Counter.md)
+* [Extract Compressed File](python_bn/extracting_python.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](colab_intro.md)
