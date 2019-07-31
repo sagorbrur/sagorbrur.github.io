@@ -14,7 +14,7 @@ zf.close()
 
 ```py
 import tarfile
-tar = tarfile.open("VCTK-Corpus.tar.gz")
+tar = tarfile.open("file.tar.gz") # or file.tar
 tar.extractall()
 
 ```
