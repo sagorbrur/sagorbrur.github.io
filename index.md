@@ -1,7 +1,7 @@
 # Welcome to my Github Page
 Hello! This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/), an enthusiastic artificial initelligence learner.
 I am currently working as a Researcher and Developer at [Semantics lab](http://semanticslab.net/)
-# NLP-Blog
+# [NLP-Blog](https://sagorbrur.github.io/blog/)
 * [Tokenization](tokenization.md)
 * [Bag of Words](bow.md)
 * [N-Gram](ngram.md)
@@ -10,6 +10,11 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Easy Tensorflow Model](easy-tensorflow.md)
 * [Beam Search](beamsearch.md)
 * [Text Preprocessing](preprocessing/text_preprocessing.md)
+
+## NLP books
+* [Speech and Language Processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+* [Natural Language Processing using python](https://www.nltk.org/book/)
+* 
 
 ## About NLP Datasets
 * [Generate Synthetic Datasets](https://github.com/sagorbrur/Data_Generation)
