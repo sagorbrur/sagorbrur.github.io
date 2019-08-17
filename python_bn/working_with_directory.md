@@ -37,7 +37,7 @@ LOGS_PATH = os.path.join(BASE_PATH, 'logs')
 # ধরি, 'extra' নামে আরেকটি ফোল্ডার 'hello' ফোল্ডারের একধাপ বাইরে আছে। মানে 'Desktop' এ আছে। 
 # আমরা 'extra' কেও বেজপাথে যুক্ত করতে পারি।
 
-EXTRA_PATH = os.path.join(BASE_PATH, '../hello')
+EXTRA_PATH = os.path.join(BASE_PATH, '../extra')
 
 
 ```
