@@ -131,7 +131,7 @@ plt.show()
 ```
 
 
-![png](Pandas_and_matplotlib_files/Pandas_and_matplotlib_4_0.png)
+![png](assets/Pandas_and_matplotlib_4_0.png)
 
 
 ## Plot column values as a bar plot
@@ -153,7 +153,7 @@ df.plot(kind='bar',x='name',y='age')
 
 
 
-![png](Pandas_and_matplotlib_files/Pandas_and_matplotlib_6_1.png)
+![png](assets/Pandas_and_matplotlib_6_1.png)
 
 
 ## Line plot with multiple columns
@@ -173,7 +173,7 @@ plt.show()
 ```
 
 
-![png](Pandas_and_matplotlib_files/Pandas_and_matplotlib_8_0.png)
+![png](assets/Pandas_and_matplotlib_8_0.png)
 
 
 ## Save plot to file
@@ -190,7 +190,7 @@ plt.savefig('output.png')
 ```
 
 
-![png](Pandas_and_matplotlib_files/Pandas_and_matplotlib_10_0.png)
+![png](assets/Pandas_and_matplotlib_10_0.png)
 
 
 ## Bar plot with group by
@@ -205,7 +205,7 @@ plt.show()
 ```
 
 
-![png](Pandas_and_matplotlib_files/Pandas_and_matplotlib_12_0.png)
+![png](assets/Pandas_and_matplotlib_12_0.png)
 
 
 ## Stacked bar plot with group by, normalized to 100%
@@ -241,7 +241,7 @@ plt.show()
 ```
 
 
-![png](Pandas_and_matplotlib_files/Pandas_and_matplotlib_14_0.png)
+![png](assets/Pandas_and_matplotlib_14_0.png)
 
 
 ## References
