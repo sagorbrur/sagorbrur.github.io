@@ -39,6 +39,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [collections.Counter](python_bn/collections_Counter.md)
 * [Extract Compressed File](python_bn/extracting_python.md)
 * [Working With Multiple Directory](python_bn/working_with_directory.md)
+* [Pandas, matplotlib and pyplot](python_bn/Pandas_and_matplotlib.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](colab_intro.md)
