@@ -42,7 +42,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Pandas, matplotlib and pyplot](python_bn/Pandas_and_matplotlib.md)
 
 # Miscellaneous
-* [A Gentle Introduction to Google Colaboratory](colab_intro.md)
+* [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
 * [Installing pyrouge in Ubuntu 16.04](install_rouge.md)
 * [Short Notes](tools_short_note/library_short.md)
 * [Using Kaggle Data in Colab](miscellaneous/kaggle_data_colab.md)
