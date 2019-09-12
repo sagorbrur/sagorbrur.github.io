@@ -19,7 +19,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 ## About NLP Datasets
 * [Generate Synthetic Datasets](https://github.com/sagorbrur/Data_Generation)
 
-## [Bengali-NLP](https://github.com/sagorbrur/Bengali_NLP)
+## Bengali-NLP
 * [Bengali Tokenization](bengali-tokenization.md)
 ## Metrices
 * [ROUGE](rouge.md)
