@@ -8,6 +8,13 @@ $./file.sh
 
 ```
 
+* Download file from web with retry
+
+```
+wget -c --retry-connrefused --waitretry=1 --read-timeout=3600 --timeout=60 -t 0 file_url'
+
+```
+
 * Check GPU status
 
 ```
