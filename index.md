@@ -46,6 +46,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Installing pyrouge in Ubuntu 16.04](install_rouge.md)
 * [Short Notes](tools_short_note/library_short.md)
 * [Using Kaggle Data in Colab](miscellaneous/kaggle_data_colab.md)
+* [Important Ubuntu Command](im_ubuntu_command.md)
 
 # Research Paper Review
 
