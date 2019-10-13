@@ -15,6 +15,32 @@ wget -c --retry-connrefused --waitretry=1 --read-timeout=3600 --timeout=60 -t 0 
 
 ```
 
+* Zip/Unzip file
+
+zipping a single file
+
+```
+zip file.zip filename_with_extention
+
+# example
+zip mytext.zip text.txt
+
+```
+
+zipping folder
+
+```zip -r name.zip folder
+#example
+zip -r myfol.zip myfolder
+
+```
+
+
+Unzip file
+
+```unzip file.zip```
+
+
 * Check GPU status
 
 ```
