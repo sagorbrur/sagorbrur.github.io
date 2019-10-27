@@ -10,6 +10,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Easy Tensorflow Model](easy-tensorflow.md)
 * [Beam Search](beamsearch.md)
 * [Text Preprocessing](preprocessing/text_preprocessing.md)
+* [Bi-LSTM in Tensorflow step by step](nlp_blog/tensorflow-bi-lstm.md)
 
 ## NLP books
 * [Speech and Language Processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
