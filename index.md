@@ -21,6 +21,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Generate Synthetic Datasets](https://github.com/sagorbrur/Data_Generation)
 
 ## Bengali-NLP
+* [Bengali SentencePiece](bengali_nlp/bengali_sentencepiece.md)
 * [Bengali Tokenization](bengali-tokenization.md)
 ## Metrices
 * [ROUGE](rouge.md)
