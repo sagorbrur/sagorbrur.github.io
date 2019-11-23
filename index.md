@@ -23,6 +23,8 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 ## Bengali-NLP
 * [Bengali SentencePiece](bengali_nlp/bengali_sentencepiece.md)
 * [Bengali Tokenization](bengali-tokenization.md)
+* [BNLP Package Released](https://github.com/sagorbrur/bnlp)
+
 ## Metrices
 * [ROUGE](rouge.md)
 * [BLEU](bleu.md)
