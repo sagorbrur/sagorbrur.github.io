@@ -3,6 +3,7 @@ Hello! This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/), an ent
 I am currently working as a Researcher and Developer at [Semantics lab](http://semanticslab.net/)
 
 ## Recent News
+* [Published Bengali GloVe word vector](https://github.com/sagorbrur/GloVe-Bengali)
 * [Published Bengali NLP Library](https://github.com/sagorbrur/bnlp)
 
 
