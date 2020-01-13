@@ -59,6 +59,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Short Notes](tools_short_note/library_short.md)
 * [Using Kaggle Data in Colab](miscellaneous/kaggle_data_colab.md)
 * [Important Ubuntu Command](miscellaneous/im_ubuntu_command.md)
+* [Using Multiple Cuda Version in Ubuntu 16.04](miscellaneous/using_multiple_cuda_ubuntu.md)
 
 # Research Paper Review
 
