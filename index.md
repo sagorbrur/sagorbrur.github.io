@@ -53,6 +53,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Pandas, matplotlib and pyplot](python_bn/Pandas_and_matplotlib.md)
 * [পাইথনে আর্গুমেন্ট পাসিং](python_bn/python_argparse.md)
 * [পাইথনে Exception Handling](python_bn/exception_handling.md)
+* [String Processing in Python](python_bn/string_processing.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
