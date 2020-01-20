@@ -42,8 +42,8 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 
 
 # Python Bengali Blog
-* [Shutil](python_bn/shutil.md)
-* [Random](python_bn/random.md)
+* [পাইথনে Shutil](python_bn/shutil.md)
+* [পাইথনে Random](python_bn/random.md)
 * [OS](python_bn/os_py.md)
 * [Numpy](python_bn/numpy.md)
 * [list](python_bn/list.md)
@@ -51,7 +51,8 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Extract Compressed File](python_bn/extracting_python.md)
 * [Working With Multiple Directory](python_bn/working_with_directory.md)
 * [Pandas, matplotlib and pyplot](python_bn/Pandas_and_matplotlib.md)
-* [Python Argparse](python_bn/python_argparse.md)
+* [পাইথনে আর্গুমেন্ট পাসিং](python_bn/python_argparse.md)
+* [পাইথনে Exception Handling](python_bn/exception_handling.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
