@@ -54,4 +54,13 @@ $watch -n0.1 nvidia-smi
 ```
 $cat /usr/local/cuda/version.txt
 ```
+* Take auto screenshot and save to drive
+```
+gnome-screenshot -w -d 5 -f /home/sagor/Desktop/test.png
+```
+* Shutdown using timer in terminal
+```
+sudo shutdown -P +60
+# here 60 means 60 minutes
+```
 
