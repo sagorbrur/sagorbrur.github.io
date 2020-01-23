@@ -1,6 +1,6 @@
 # Important Ubuntu Command
 
-* Installing bash file/run .sh file
+1. Installing bash file/run .sh file
 
 ```
 $chmod +x file.sh
@@ -8,14 +8,14 @@ $./file.sh
 
 ```
 
-* Download file from web with retry
+2. Download file from web with retry
 
 ```
 wget -c --retry-connrefused --waitretry=1 --read-timeout=3600 --timeout=60 -t 0 file_url'
 
 ```
 
-* Zip/Unzip file
+3. Zip/Unzip file
 
 zipping a single file
 
@@ -41,24 +41,29 @@ Unzip file
 ```unzip file.zip```
 
 
-* Check GPU status
+4. Check GPU status
 
 ```
 $nvidia-smi
 # for watch live status
 $watch -n0.1 nvidia-smi
+
 ```
 
-* Check Cuda Version
+5. Check Cuda Version
 
 ```
 $cat /usr/local/cuda/version.txt
 ```
-* Take auto screenshot and save to drive
+
+6. Take auto screenshot and save to drive
+
 ```
 gnome-screenshot -w -d 5 -f /home/sagor/Desktop/test.png
 ```
-* Shutdown using timer in terminal
+
+7. Shutdown using timer in terminal
+
 ```
 sudo shutdown -P +60
 # here 60 means 60 minutes
