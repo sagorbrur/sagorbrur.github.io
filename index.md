@@ -55,6 +55,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [পাইথনে Exception Handling](python_bn/exception_handling.md)
 * [String Processing in Python](python_bn/string_processing.md)
 * [পাইথনে lambda ফাংশন](python_bn/lambda.md)
+* [পাইথনে map, filter এবং reduce](python_bn/python_map_filter_reduce.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
