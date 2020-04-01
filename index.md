@@ -69,4 +69,8 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 
 
 # Research & Publication
+* [Bengali Text Summarization]()
 
+  - Final year **thesis** on Bengali Text summarization using sequence sequence to attentional model with pointer generator network.
+  - Link will activate soon
+  
