@@ -22,6 +22,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 
 # ML Blog
 * [IRIS CLassification](ml_blog/classification/iris_classification.md)
+* [classification metrics](ml_blog/metrics/classification_metrics.md)
 
 ## NLP books
 * [Speech and Language Processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
