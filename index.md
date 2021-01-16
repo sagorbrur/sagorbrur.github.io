@@ -1,9 +1,10 @@
 # Welcome to my Github Page
 Hello! This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/), an enthusiastic artificial initelligence learner.
-I am currently working as a Researcher and Developer at [Semantics lab](http://semanticslab.net/)
+I am currently working as an AI Engineer and Researcher at [Next Solution Lab](nextsolutionlab.com)
 
 ## Recent News
-* [Pubished bengali transformer package](https://github.com/sagorbrur/bntransformer)
+* [Published Bangla BERT Base Model](https://github.com/sagorbrur/bangla-bert)
+* [Published Pytorch Based Deep Learning NLP Solution for Bengali NLP](https://github.com/sagorbrur/bendeep)
 * [Published Bengali Language Model Toolkit(BNLM)](https://github.com/sagorbrur/bnlm)
 * [Published Bengali NLP Library(BNLP)](https://github.com/sagorbrur/bnlp)
 * [Published Bengali GloVe word vector](https://github.com/sagorbrur/GloVe-Bengali)
@@ -71,6 +72,7 @@ I am currently working as a Researcher and Developer at [Semantics lab](http://s
 * [Using Multiple Cuda Version in Ubuntu 16.04](miscellaneous/using_multiple_cuda_ubuntu.md)
 * [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
 * [Git Technique](git/technique.md)
+* [Sharing Dataset  Using Kaggle API](miscellaneous/share_data_kaggle.md)
 
 # Research Paper Review
 
