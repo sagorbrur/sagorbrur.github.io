@@ -56,6 +56,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [collections.Counter](python_bn/collections_Counter.md)
 * [Extract Compressed File](python_bn/extracting_python.md)
 * [Working With Multiple Directory](python_bn/working_with_directory.md)
+* [পাইথনে Pandas](python_bn/pandas.md)
 * [Pandas, matplotlib and pyplot](python_bn/Pandas_and_matplotlib.md)
 * [পাইথনে আর্গুমেন্ট পাসিং](python_bn/python_argparse.md)
 * [পাইথনে Exception Handling](python_bn/exception_handling.md)
