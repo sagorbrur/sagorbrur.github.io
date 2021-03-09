@@ -74,6 +74,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
 * [Git Technique](git/technique.md)
 * [Sharing Dataset  Using Kaggle API](miscellaneous/share_data_kaggle.md)
+* [Quick Demo App using Streamlit](miscellaneous/streamlit_intro.md)
 
 # Research Paper Review
 
