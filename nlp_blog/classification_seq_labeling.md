@@ -24,7 +24,7 @@ Given a sentence X and predict an output Y
   ------------------------
   ```
   
-- __Sentiment Analysis__If we provide a topic list `[food, music, sports]` then classification work like this
+- __Sentiment Analysis__
 
   Sentiment analysis predict a sentiment (like positive, negative or neutral) from an input sentence or text
   
