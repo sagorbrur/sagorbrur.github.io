@@ -15,6 +15,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Bag of Words](bow.md)
 * [N-Gram](ngram.md)
 * [Word Embedding](word-embedding.md)
+* [Text Classification and Sequence Labeling in NLP](nlp_blog/classification_seq_labeling.md)
 * [Sequence to Sequence Model](seq2seq-model)
 * [Easy Tensorflow Model](easy-tensorflow.md)
 * [Beam Search](beamsearch.md)
