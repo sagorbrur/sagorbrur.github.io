@@ -10,10 +10,6 @@ Given a sentence X and predict an output Y
 ```
 ### Type of Text Classification
 - __Topic Classification__
-
-  Topic classification predict a topic from an input sentence or text
-  
-  For example:
   
   Topic classifcation predict a topic(like food, sports, music) from an input sentence or text
   
