@@ -64,6 +64,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [String Processing in Python](python_bn/string_processing.md)
 * [পাইথনে lambda ফাংশন](python_bn/lambda.md)
 * [পাইথনে map, filter এবং reduce](python_bn/python_map_filter_reduce.md)
+* [Processing Large Corpora Using Python Generator](python_bn/generator_python.md)
 
 # Miscellaneous
 * [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
