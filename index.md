@@ -6,10 +6,10 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Published `bntrasformer` package](https://github.com/sagorbrur/bntransformer)
 * [Published Indic Transliteration Package `itranslit`](https://github.com/sagorbrur/itranslit)
 * [Published Bangla Transliteration Package `bntranslit`](https://github.com/sagorbrur/bntranslit)
-* [Published Bangla BERT Base Model](https://github.com/sagorbrur/bangla-bert)
-* [Published Pytorch Based Deep Learning NLP Solution for Bengali NLP](https://github.com/sagorbrur/bendeep)
-* [Published Bengali Language Model Toolkit(BNLM)](https://github.com/sagorbrur/bnlm)
-* [Published Bengali NLP Library(BNLP)](https://github.com/sagorbrur/bnlp)
+* [Published `Bangla-BERT-Base` Model](https://github.com/sagorbrur/bangla-bert)
+* [Published `bendeep` Package](https://github.com/sagorbrur/bendeep)
+* [Published Bengali Language Model Toolkit `BNLM`](https://github.com/sagorbrur/bnlm)
+* [Published Bengali NLP Library `BNLP`](https://github.com/sagorbrur/bnlp)
 * [Published Bengali GloVe word vector](https://github.com/sagorbrur/GloVe-Bengali)
 
 
