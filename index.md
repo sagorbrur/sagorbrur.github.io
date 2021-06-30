@@ -10,7 +10,6 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Published `bendeep` Package](https://github.com/sagorbrur/bendeep)
 * [Published Bengali Language Model Toolkit `BNLM`](https://github.com/sagorbrur/bnlm)
 * [Published Bengali NLP Library `BNLP`](https://github.com/sagorbrur/bnlp)
-* [Published Bengali GloVe word vector](https://github.com/sagorbrur/GloVe-Bengali)
 
 
 # [NLP-Blog](https://sagorbrur.github.io/blog/)
@@ -70,16 +69,16 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Processing Large Corpora Using Python Generator](python_bn/generator_python.md)
 
 # Miscellaneous
-* [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
-* [Installing pyrouge in Ubuntu 16.04](install_rouge.md)
+* Apr 2020 [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
+* Mar 2020 [Quick Demo App using Streamlit](miscellaneous/streamlit_intro.md)
+* Jan 2020 [Sharing Dataset  Using Kaggle API](miscellaneous/share_data_kaggle.md)
+* Jan 2020 [Using Multiple Cuda Version in Ubuntu 16.04](miscellaneous/using_multiple_cuda_ubuntu.md)
+* Nov 2019 [A Gentle Introduction to Google Colaboratory](miscellaneous/colab_intro.md)
+* Aug 2019 [Using Kaggle Data in Colab](miscellaneous/kaggle_data_colab.md)
+* May 2019 [Installing pyrouge in Ubuntu 16.04](install_rouge.md)
 * [Short Notes](tools_short_note/library_short.md)
-* [Using Kaggle Data in Colab](miscellaneous/kaggle_data_colab.md)
 * [Important Ubuntu Command](miscellaneous/im_ubuntu_command.md)
-* [Using Multiple Cuda Version in Ubuntu 16.04](miscellaneous/using_multiple_cuda_ubuntu.md)
-* [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
 * [Git Technique](git/technique.md)
-* [Sharing Dataset  Using Kaggle API](miscellaneous/share_data_kaggle.md)
-* [Quick Demo App using Streamlit](miscellaneous/streamlit_intro.md)
 
 # Research Paper Review
 
@@ -88,5 +87,5 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Bengali Text Summarization](#research-&-publication)
 
   - Final year **thesis** on Bengali Text summarization using sequence to sequence attentional model with pointer generator network.
-  - Link will activate soon
+  
   
