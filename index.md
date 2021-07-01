@@ -42,13 +42,9 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [BNLP Package Released](https://github.com/sagorbrur/bnlp)
 
 ## Metrices
-* [ROUGE](rouge.md)
-* [BLEU](bleu.md)
-* [METEOR](meteor.md)
-
-
-# Computer Vision Blog
-
+* Sep 2019 [ROUGE](rouge.md)
+* Mar 2019 [BLEU](bleu.md)
+* Mar 2019 [METEOR](meteor.md)
 
 # Python Bengali Blog
 * Apr 2019 [পাইথনে Shutil](python_bn/shutil.md)
