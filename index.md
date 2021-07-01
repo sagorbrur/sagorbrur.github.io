@@ -13,16 +13,16 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 
 
 # [NLP-Blog](https://sagorbrur.github.io/blog/)
-* [Tokenization](tokenization.md)
-* [Bag of Words](bow.md)
-* [N-Gram](ngram.md)
-* [Word Embedding](word-embedding.md)
-* [Text Classification and Sequence Labeling in NLP](nlp_blog/classification_seq_labeling.md)
-* [Sequence to Sequence Model](seq2seq-model)
-* [Easy Tensorflow Model](easy-tensorflow.md)
-* [Beam Search](beamsearch.md)
+* Feb 2019 [Easy Tensorflow Model](easy-tensorflow.md)
+* Mar 2019 [Tokenization](tokenization.md)
+* Mar 2019 [N-Gram](ngram.md)
+* Mar 2019 [Word Embedding](word-embedding.md)
+* Mar 2019 [Sequence to Sequence Model](seq2seq-model)
+* Mar 2019 [Beam Search](beamsearch.md)
+* Apr 2021 [Text Classification and Sequence Labeling in NLP](nlp_blog/classification_seq_labeling.md)
+* Jul 2019 [Bag of Words](bow.md)
+* Oct 2019 [Bi-LSTM in Tensorflow step by step](nlp_blog/tensorflow-bi-lstm.md)
 * [Text Preprocessing](preprocessing/text_preprocessing.md)
-* [Bi-LSTM in Tensorflow step by step](nlp_blog/tensorflow-bi-lstm.md)
 
 # ML Blog
 * [IRIS CLassification](ml_blog/classification/iris_classification.md)
