@@ -63,6 +63,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * Mar 2020 [পাইথনে map, filter এবং reduce](python_bn/python_map_filter_reduce.md)
 * Mar 2021 [পাইথনে Pandas](python_bn/pandas.md)
 * May 2021 [Processing Large Corpora Using Python Generator](python_bn/generator_python.md)
+* Aug 2021 [পাইথনে *args এবং **kwargs](python_bn/args_kwargs.md)
 
 # Miscellaneous
 * Apr 2020 [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
