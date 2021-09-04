@@ -66,6 +66,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * Aug 2021 [পাইথনে *args এবং **kwargs](python_bn/args_kwargs.md)
 
 # Miscellaneous
+* Sep 2021 [Download Drive File Without Login](miscellaneous/download_drive_file.md)
 * Apr 2020 [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
 * Mar 2020 [Quick Demo App using Streamlit](miscellaneous/streamlit_intro.md)
 * Jan 2020 [Sharing Dataset  Using Kaggle API](miscellaneous/share_data_kaggle.md)
