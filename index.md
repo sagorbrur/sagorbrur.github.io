@@ -64,6 +64,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * Mar 2021 [পাইথনে Pandas](python_bn/pandas.md)
 * May 2021 [Processing Large Corpora Using Python Generator](python_bn/generator_python.md)
 * Aug 2021 [পাইথনে *args এবং **kwargs](python_bn/args_kwargs.md)
+* Sep 2021 [পাইথনে Dictionary](python_bn/dictionary.md)
 
 # Miscellaneous
 * Sep 2021 [Download Drive File Without Login](miscellaneous/download_drive_file.md)
@@ -85,5 +86,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Bengali Text Summarization](#research-&-publication)
 
   - Final year **thesis** on Bengali Text summarization using sequence to sequence attentional model with pointer generator network.
+
+* [DeepHateExplainer: Explainable Hate Speech Detection in Under-resourced Bengali Language](https://arxiv.org/pdf/2012.14353.pdf)
   
   
