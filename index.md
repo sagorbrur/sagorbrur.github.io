@@ -24,27 +24,6 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * Oct 2019 [Bi-LSTM in Tensorflow step by step](nlp_blog/tensorflow-bi-lstm.md)
 * [Text Preprocessing](preprocessing/text_preprocessing.md)
 
-# ML Blog
-* [IRIS CLassification](ml_blog/classification/iris_classification.md)
-* [classification metrics](ml_blog/metrics/classification_metrics.md)
-
-## NLP books
-* [Speech and Language Processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
-* [Natural Language Processing using python](https://www.nltk.org/book/)
-* 
-
-## About NLP Datasets
-* [Generate Synthetic Datasets](https://github.com/sagorbrur/Data_Generation)
-
-## Bengali-NLP
-* [Bengali SentencePiece](bengali_nlp/bengali_sentencepiece.md)
-* [Bengali Tokenization](bengali-tokenization.md)
-* [BNLP Package Released](https://github.com/sagorbrur/bnlp)
-
-## Metrices
-* Sep 2019 [ROUGE](rouge.md)
-* Mar 2019 [BLEU](bleu.md)
-* Mar 2019 [METEOR](meteor.md)
 
 # Python Bengali Blog
 * Apr 2019 [পাইথনে Shutil](python_bn/shutil.md)
@@ -66,6 +45,9 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * Aug 2021 [পাইথনে *args এবং **kwargs](python_bn/args_kwargs.md)
 * Sep 2021 [পাইথনে Dictionary](python_bn/dictionary.md)
 
+# Frameworks
+* Sep 2021 [Simple Pytorch](frameworks/pytorch/simple_pytorch.md)
+
 # Miscellaneous
 * Sep 2021 [Download Drive File Without Login](miscellaneous/download_drive_file.md)
 * Apr 2020 [Create and Upload Python Package to pypi.org](miscellaneous/upload_pypi_package.md)
@@ -78,6 +60,28 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * [Short Notes](tools_short_note/library_short.md)
 * [Important Ubuntu Command](miscellaneous/im_ubuntu_command.md)
 * [Git Technique](git/technique.md)
+
+# ML Blog
+* [IRIS CLassification](ml_blog/classification/iris_classification.md)
+* [classification metrics](ml_blog/metrics/classification_metrics.md)
+
+## NLP books
+* [Speech and Language Processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+* [Natural Language Processing using python](https://www.nltk.org/book/)
+* 
+
+## About NLP Datasets
+* [Generate Synthetic Datasets](https://github.com/sagorbrur/Data_Generation)
+
+## Bengali-NLP
+* [Bengali SentencePiece](bengali_nlp/bengali_sentencepiece.md)
+* [Bengali Tokenization](bengali-tokenization.md)
+* [BNLP Package Released](https://github.com/sagorbrur/bnlp)
+
+## Metrices
+* Sep 2019 [ROUGE](rouge.md)
+* Mar 2019 [BLEU](bleu.md)
+* Mar 2019 [METEOR](meteor.md)
 
 # Research Paper Review
 
