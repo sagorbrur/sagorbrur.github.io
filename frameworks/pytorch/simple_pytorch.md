@@ -49,11 +49,11 @@ testlabel = testlabel.to(device)
 
 # convert traindata and label to example
 def generate_data_example(data, label):
-  examlpes = []
+  examples = []
   for d, l in zip(data, label):
     data_set = (d, l)
     examples.append(data_set)
-  return exampes
+  return examples
  
 train_examples = generate_data_example(traindata, trainlabel)
 test_examples = generate_data_example(testdata, testlabel)
@@ -61,7 +61,7 @@ test_examples = generate_data_example(testdata, testlabel)
 # fit in dataloader
 batch_size = 1
 train_dataloader = DataLoader(train_examples, batch_size=batch_size)
-test_dataloader = DataLoader(test_examles, batch_size=batch_size)
+test_dataloader = DataLoader(test_examples, batch_size=batch_size)
 ```
 ## Define Model
 A simple one layer model
@@ -91,7 +91,7 @@ criterion = nn.CrossEntropyLoss()
 ```
 ## Define Optimizer
 ```py
-optimizer = optim.Adam(net.parameters(), lr=0.001)
+optimizer = optim.Adam(model.parameters(), lr=0.001)
 ```
 ## Train Function
 ```py
@@ -138,8 +138,8 @@ def test(dataloader, model, loss_fn):
 epochs = 5
 for t in range(epochs):
     print(f"Epoch {t+1}\n-------------------------------")
-    train(train_dataloader, model, loss_fn, optimizer)
-    test(test_dataloader, model, loss_fn)
+    train(train_dataloader, model, criterion, optimizer)
+    test(test_dataloader, model, criterion)
 print("Done!")
 ```
 ## Save Model
@@ -149,7 +149,7 @@ torch.save(model.state_dict(), 'model.pth')
 ## Load and Inference
 ```py
 load_model = model.load_state_dict(torch.load('model.pth'))
-test_input = torch.tensor([[1, 2, 3]], dtype=torch.float32)
+test_input = torch.tensor([[1, 2, 3]], dtype=torch.float32).to(device)
 predict = model(test_input).data.max(1, keepdim=True)[1]
 print(predict)
 ```
@@ -157,7 +157,7 @@ print(predict)
 ```py
 # inspect parameters
 params = model.parameters()
-for param in parameters:
+for param in params:
   print(param)
 modules = model.named_modules()
 for idx, m in enumerate(modules):
