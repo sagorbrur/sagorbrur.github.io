@@ -47,7 +47,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 
 # Frameworks
 * Sep 2021 [Simple Pytorch](frameworks/pytorch/simple_pytorch.md)
-* Sep 2021 [Pytorch model save and load](pytorch/pytorch_model_save_load.md)
+* Sep 2021 [Pytorch model save and load](frameworks/pytorch/pytorch_model_save_load.md)
 
 # Miscellaneous
 * Sep 2021 [Download Drive File Without Login](miscellaneous/download_drive_file.md)
