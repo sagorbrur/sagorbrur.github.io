@@ -44,6 +44,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 * May 2021 [Processing Large Corpora Using Python Generator](python_bn/generator_python.md)
 * Aug 2021 [পাইথনে *args এবং **kwargs](python_bn/args_kwargs.md)
 * Sep 2021 [পাইথনে Dictionary](python_bn/dictionary.md)
+* Oct 2021 [Neural Network from scratch](python_bn/neural_network_from_scratch.md)
 
 # Frameworks
 * Sep 2021 [Simple Pytorch](frameworks/pytorch/simple_pytorch.md)
