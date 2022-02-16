@@ -66,6 +66,7 @@ I am currently working as an AI Engineer and Researcher at [Next Solution Lab](n
 # ML Blog
 * [IRIS CLassification](ml_blog/classification/iris_classification.md)
 * [classification metrics](ml_blog/metrics/classification_metrics.md)
+* [Most popular activation functions](ml_blog/activation.md)
 
 ## NLP books
 * [Speech and Language Processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
