@@ -1,5 +1,7 @@
 # Most popular activation functions
 
+Non-linearity is one of the most important part for deep neural network. without activation function resulting network is equivalent to single-layer-network. Below there are four most popular activation functions are described.
+
 ## Sigmoid
 Sigmoid activation function maps the output into range [0, 1]
 
