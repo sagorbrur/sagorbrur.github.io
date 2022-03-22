@@ -58,6 +58,16 @@ downloaded.GetContentFile('file_name.csv') #Replace the name with your file name
 
 ```
 
+Using __gdown__
+```py
+# pip install gdown
+# a file
+url = "https://drive.google.com/uc?id=1l_5RK28JRL19wpT22B-DY9We3TVXnnQQ"
+output = "fcn8s_from_caffe.npz"
+gdown.download(url, output, quiet=False)
+# more details: https://github.com/wkentaro/gdown#from-python
+```
+
 ## Changing Working Directory
 
 ```
