@@ -49,4 +49,4 @@ Streamlit ব্যবহার করে মাত্র কয়েক লাই
 
   ```streamlit run app.py```
   
-  ![streamlit demo 1](https://raw.githubusercontent.com/sagorbrur/sagorbrur.github.io/master/assets/images/streamlit_demo_1.png)
+  <!-- ![streamlit demo 1](https://raw.githubusercontent.com/sagorbrur/sagorbrur.github.io/master/assets/images/streamlit_demo_1.png) -->
