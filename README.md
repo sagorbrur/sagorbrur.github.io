@@ -35,3 +35,6 @@ The source code for generation of the blog is under MIT License. Content is copy
 ## Contact
 
 If you have any questions, you can [email](mailto:brursagor@gmail.com) me.
+
+## Modification Methods
+- [minimal-mistakes docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
