@@ -1,5 +1,154 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Sagor Sarker
-description: An enthusiastic Artificial Intelligence learner
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+email: brursagor@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I am a Machine Learning Engineer applying research to products.
+url: "https://sagorbrur.github.io"
+twitter_username: sagor_sarker
+github_username: sagorbrur
+minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: true
+
+twitter:
+  username: "sagor_sakrer"
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+
+# Outputting
+permalink: /:year/:month/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Dhaka
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Sagor Sarker"
+  avatar : "/images/bio-photo.jpg"
+  bio    : "NLP, DL, ML practitioner"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sagor_sarker"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sagorbrur"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sagor-sarker"
+    # - label: "Subscribe"
+    #   icon: "fas fa-fw fa-envelope"
+    #   url: "https://www.getrevue.co/profile/xx"
+    # - label: "Support"
+    #   icon: "fas fa-fw fa-mug-hot"
+    #   url: "https://www.buymeacoffee.com/xx"
+#    - label: "Email"
+#      icon: "fab fa-envelope"
+#      url: "mailto:brursagor@gmail.com"
+#    - label: "Feed"
+#      icon: "fab fa-fw fa-globe"
+#      url: "/feed.xml"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sagor_sarker"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sagorbrur"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "images/"
+    values:
+      image: true
+
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+repository: "sagorbrur/blog-comments"
+
+# google_site_verification: "xETphZ5K1WItiUzH0YMRgZ8njDZlQMcGd_HD3zxGkuI"
+
+social:
+  type:  Person
+  name:  Sagor Sarker
+  links:
+    - "https://twitter.com/sagor_sarker"
+    - "https://www.facebook.com/sagor.sarker.brur"
+    - "https://www.linkedin.com/in/sagor-sarker"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-89627933-1"
+    anonymize_ip: false
