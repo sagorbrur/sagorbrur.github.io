@@ -12,10 +12,10 @@ In this tutorial we will learn a simple REST API using Flask.
 We will learn mostly two methods (GET and POST) of HTTP request.
 
 ## Content
-- [1.Dependencies](#dependencies)
-- [2. Creating a flask app](#creating-a-flask-app)
-- [3. GET Method](#get-method)
-- [4. POST Method](#post-method)
+- [Dependencies](#dependencies)
+- [Creating a flask app](#creating-a-flask-app)
+- [GET Method](#get-method)
+- [POST Method](#post-method)
 
 ## Dependencies
 To start with this tutorial, let's import the required packages.
