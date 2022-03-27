@@ -23,6 +23,3 @@ excerpt: This page contains different resource for learning about the Transforme
 - [annotated transformers](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Illustrated gpt-2 by jalammar](https://jalammar.github.io/illustrated-gpt2/)
 - [transformers from scratch by abstrukt](https://blog.abstrukt.co/fastai/pytorch/2021/01/02/transformer-lm-from-scratch.html)
-
-## Books
-
