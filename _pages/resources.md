@@ -7,6 +7,8 @@ excerpt: This page contains different resource for learning
 
 ## Resource Pages
 - [Transformers Resources](https://sagorbrur.github.io/transformers/)
+- [Pytorch Resources](https://sagorbrur.github.io/pytorch/)
+- [Papers according to NLP topics](https://sagorbrur.github.io/nlp-topics/)
 
 ## Books
 - [Speech and language processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
