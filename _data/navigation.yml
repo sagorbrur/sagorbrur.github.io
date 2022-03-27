@@ -3,9 +3,9 @@ main:
     url: /archives/
   - title: "Categories"
     url: /categories/
+  - title: "Resources"
+    url: /resources/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
   - title: "Resume"
     url: /resume/
