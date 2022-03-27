@@ -6,7 +6,7 @@ excerpt: This page contains different resource for learning
 ---
 
 ## Resource Pages
-- [transformers resources](https://sagorbrur.github.io/transformers-resources/)
+- [Transformers Resources](https://sagorbrur.github.io/transformers/)
 
 ## Books
 - [Speech and language processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
