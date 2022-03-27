@@ -16,6 +16,8 @@ excerpt: This page contains different resource for learning about the Transforme
 - [notebook on transformers library by leis et al](https://github.com/nlp-with-transformers/notebooks)
 - [minGPT by karpathy](https://github.com/karpathy/minGPT)
 - [tranformers library](https://github.com/huggingface/transformers)
+- [transformers in pytorch](https://github.com/tunz/transformer-pytorch)
+- [gpt2 simple python package](https://github.com/minimaxir/gpt-2-simple)
 
 ## Blog
 - [annotated transformers](http://nlp.seas.harvard.edu/2018/04/03/attention.html)

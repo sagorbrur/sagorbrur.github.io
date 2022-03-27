@@ -5,6 +5,9 @@ classes: wide
 excerpt: This page contains different resource for learning
 ---
 
+## Resource Pages
+- [transformers resources](https://sagorbrur.github.io/transformers-resources/)
+
 ## Books
 - [Speech and language processing by Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
 - [Hands on machine learning with scikit-learn, keras and tensorflow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
