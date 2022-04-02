@@ -91,7 +91,8 @@ def get_message():
 @app.route('/tokenize', methods=['POST'])
 def tokenizer():
     if request.method == 'POST':
-        text = request.form['text']
+        data = request.json
+        text = data['text']
         tokens = text.split()
         return jsonify({'tokens': tokens})
 
@@ -104,7 +105,8 @@ To send the text we will use python `requests` module to send the text.
 ```python
 import requests
 
-response = requests.post('http://localhost:5000/tokenize', data={'text': 'Hello World!'})
+data = {'text': 'Hello World!'}
+response = requests.post('http://localhost:5000/tokenize', json=data)
 print(response.json())
 # output: {'tokens': ['Hello', 'World!']}
 ```
