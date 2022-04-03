@@ -6,9 +6,10 @@ excerpt: This page contains different resource for learning
 ---
 
 ## Resource Pages
-- [Books](https://sagorbrur.github.io/books/)
 - [Tools](https://sagorbrur.github.io/tools/)
+- [Books](https://sagorbrur.github.io/books/)
 - [Courses](https://sagorbrur.github.io/courses/)
-- [Transformers Resources](https://sagorbrur.github.io/transformers/)
 - [Pytorch Resources](https://sagorbrur.github.io/pytorch/)
+- [Knowledge Distillation](https://sagorbrur.github.io/knowledge-distillation/)
+- [Transformers Resources](https://sagorbrur.github.io/transformers/)
 - [Papers according to NLP topics](https://sagorbrur.github.io/nlp-topics/)
