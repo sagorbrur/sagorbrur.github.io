@@ -15,7 +15,9 @@ LSTM contains three gate:
 - Output gate
 
 __Forget gate__ controls(by f(t)) which parts of the long-term state should be erased.
+
 __Input gate__ controls(by i(t)) which parts of the long-term state should be added
+
 __Output gate__ controls(by o(t)) which parts of the long-term state should be read and output at this time step.
 
 LSTM is exact as RNN but it's state is split in two vectors: h(t) and c(t) where h(t) is short-term state and c(t) is long-term state.
