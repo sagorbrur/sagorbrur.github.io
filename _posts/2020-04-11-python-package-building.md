@@ -121,7 +121,7 @@ You have done the initial settings of your package.
 
 * Upload your package to pypi
     ```
-    !python3 -m twine upload dist/*
+    python3 -m twine upload dist/*
     ```
 
     It will ask your pypi account `user-name` and `password`. Now fill that two field and you will get your package link like this: 
