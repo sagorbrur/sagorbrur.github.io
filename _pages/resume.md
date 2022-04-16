@@ -5,14 +5,14 @@ classes: wide
 excerpt: Professional resume
 ---
 
-## Research Interest
+## Working/Research Interest
 - Natural Language Processing (NLP)
 - Deep Learning (DL)
 - Machine Learning (ML)
 
 ## Skills
 - __Operating System__: Linux, Windows
-- __Programming Languages__: Python(Expert), C++(Prior), C(Prior), Java(Prior), MySQL, Latex
+- __Programming Languages__: Python(Expert), Java(Prior), C++(Prior), C(Prior),  MySQL, Latex
 - __Libraries and Tools__: Pytorch, Tensorflow, Keras, scikit-learn, nltk, gensim, pandas, spacy, transformers, matplotlib, seaborn, git, docker
 
 ## Projects
