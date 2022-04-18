@@ -8,7 +8,7 @@ classes: wide
 excerpt: This blog describes about the concept of GRU
 ---
 
-GRU is the simplified version of LSTM and performs as well as LSTM. GRU has less parameters than LSTM and is faster than LSTM.
+GRU is the simplified version of [LSTM](https://sagorbrur.github.io/2022/04/long-short-term-memory/) and performs as well as LSTM. GRU has less parameters than LSTM and is faster than LSTM.
 Both state vectors are merged into one sinlge vector h(t) in GRU.
 
 A single gate controller z(t) controls both forget and input gate.
@@ -27,3 +27,4 @@ If the gate controller outputs 1, the forget gate is open(=1) and the input gate
 
 ## References
 - [Hands on machine learning by scikit-learn and keras by geron]()
+
