@@ -34,11 +34,11 @@ The input vector x(t) and prevous short-term state h(t-1) are fed to four differ
 
 Here's all the equations for every gates:
 
-![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;i_{t}=sigmoid(W_{xi}x_{t}+W_{hi}h_{t-1}+b_{i})))
+![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;i_{t}=sigmoid(W_{xi}x_{t}+W_{hi}h_{t-1}+b_{i}))
 
-![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;f_{t}=sigmoid(W_{xf}x_{t}+W_{hf}h_{t-1}+b_{f})))
+![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;f_{t}=sigmoid(W_{xf}x_{t}+W_{hf}h_{t-1}+b_{f}))
 
-![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;o_{t}=sigmoid(W_{xo}x_{t}+W_{ho}h_{t-1}+b_{o})))
+![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;o_{t}=sigmoid(W_{xo}x_{t}+W_{ho}h_{t-1}+b_{o}))
 
 ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;g_{t}=tanh(W_{xg}x_{t}+W_{hg}h_{t-1}+b_{g})))
 

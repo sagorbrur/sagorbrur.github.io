@@ -1,9 +1,12 @@
 ---
-title: "Understanding transformers"
-date: 2022-03-28
+title: "Attention is all you need paper review"
+date: 2022-04-17
 categories:
   - nlp
+  - paper
+  - review
 classes: wide
-excerpt: This blog describes about how I understand transformers.
+excerpt: Review of paper attention is all you need.
 ---
+
 
