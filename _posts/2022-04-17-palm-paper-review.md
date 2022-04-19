@@ -11,6 +11,8 @@ excerpt: Review of paper PALM
 
 PALM Paper: [https://arxiv.org/pdf/2004.07159.pdf](https://arxiv.org/pdf/2004.07159.pdf)
 
+PALM Code: [https://github.com/overwindows/PALM](https://github.com/overwindows/PALM)
+
 ![](/images/palm-3.png)
 
 Before dive into the paper, let's understand what is `Autoencoding` and `Autoregressive` pre-training.
