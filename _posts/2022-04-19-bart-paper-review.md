@@ -38,7 +38,7 @@ BART is particularly effective when fine tuned for text generation but also work
 - BART is trained by corrupting documents and then optimizing a reconstruction loss—the cross-entropy between the decoder’s output and the original document.
 - Unlike existing denoising autoencoders, which are tailored to specific noising schemes, BART allows us to
 apply any type of document corruption.
-- There four types denoising happens in BART pretraining.
+- There four types noising happens in BART pretraining.
     - Token Masking
     - Token Deletion
     - Text Infilling
