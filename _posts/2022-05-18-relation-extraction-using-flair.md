@@ -30,11 +30,11 @@ Here is an example of __CONLL04__ format:
 
     # text = Rita loves to swim.
     # sentence_id = 2
-    # relations = 6;6;1;2;HOBBY
+    # relations = 4;4;1;1;HOBBY
     1	Rita	B-PER
-    3	loves	O
-    4	to	O
-    6   swim	B-SPORT
+    2	loves	O
+    3	to	O
+    4   swim	B-SPORT
 
     ................................
 ```
