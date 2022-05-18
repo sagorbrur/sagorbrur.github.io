@@ -27,7 +27,7 @@ Suppose we have three classes A, B, C.
 
 | Class | TP | FP | FN |
 |------:|:---:|:---:|:---:|
-| A     | 10  | 5  | 0  |
+| A     | 10  | 0  | 0  |
 | B     | 5   | 10 | 0  |
 | C     | 0   | 0  | 10 |
 | Total | 15  | 10 | 10 |
@@ -35,6 +35,7 @@ Suppose we have three classes A, B, C.
 So, the micro F1 calculation equation is:
 
 ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;F1(micro)=\frac{2TP}{2TP+FP+FN})
+
 
 ![Figure](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;F1(micro)=\frac{30}{30+10+10}=0.6)
 
