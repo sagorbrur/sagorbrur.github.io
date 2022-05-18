@@ -18,25 +18,25 @@ Here is an example of __CONLL04__ format:
 
 ```
 # global.columns = id form ner
-    # text = Shaka khan loves to read book.
-    # sentence_id = 1
-    # relations = 6;6;1;2;HOBBY
-    1	Shaka	B-PER
-    2	Khan	I-PER
-    3	loves	O
-    4	to	O
-    5	read	O
-    6   book	B-OBJ
+# text = Shaka khan loves to read book.
+# sentence_id = 1
+# relations = 6;6;1;2;HOBBY
+1	Shaka	B-PER
+2	Khan	I-PER
+3	loves	O
+4	to	O
+5	read	O
+6   book	B-OBJ
 
-    # text = Rita loves to swim.
-    # sentence_id = 2
-    # relations = 4;4;1;1;HOBBY
-    1	Rita	B-PER
-    2	loves	O
-    3	to	O
-    4   swim	B-SPORT
+# text = Rita loves to swim.
+# sentence_id = 2
+# relations = 4;4;1;1;HOBBY
+1	Rita	B-PER
+2	loves	O
+3	to	O
+4   swim	B-SPORT
 
-    ................................
+................................
 ```
 
 - Prepare three file in same name as below
