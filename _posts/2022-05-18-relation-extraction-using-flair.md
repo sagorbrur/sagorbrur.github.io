@@ -12,7 +12,7 @@ excerpt: This blog post explains how to train relation extraction model with Fla
 Training a Relation Extraction model in [Flair](https://github.com/flairNLP/flair) is kind of a very easy task. A few days back I was doing relation extraction with flair. But unfortunately there no exact code to train the model. So, I prepare the relation extraction training code by myself by observing flair [NER training](https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_7_TRAINING_A_MODEL.md#training-a-named-entity-recognition-ner-model-with-flair-embeddings) training code.
 
 ## Data Preparation
-We will train a relation extraction model for [CONLL04] datasets. So, first we need to prepare our data in CONLL04 format.
+We will train a relation extraction model for [CONLL04](https://github.com/bekou/multihead_joint_entity_relation_extraction/tree/master/data/CoNLL04) datasets. So, first we need to prepare our data in CONLL04 format.
 
 Here is an example of __CONLL04__ format:
 
@@ -46,13 +46,13 @@ Here is an example of __CONLL04__ format:
     - conll04-test.conllu
 
 - Keep these files in below directory format
-   ```
+
+    ```bash
     - data
         - re_english_conll04
             - conll04-train.conllu
             - conll04-valid.conllu
             - conll04-test.conllu
-    
     ```
 
 ## Training
@@ -99,5 +99,6 @@ trainer.train("log_path",
 ```
 
 For predicting relation you need an NER model too. 
+
 Let's discuss it in another blog post.
 
