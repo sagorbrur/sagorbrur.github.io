@@ -6,6 +6,7 @@ excerpt: This page contains different resource for learning
 ---
 
 ## Resource Pages
+- [Git](https://sagorbrur.github.io/git/)
 - [Tools](https://sagorbrur.github.io/tools/)
 - [Books](https://sagorbrur.github.io/books/)
 - [Courses](https://sagorbrur.github.io/courses/)
