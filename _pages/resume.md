@@ -23,4 +23,4 @@ excerpt: Professional resume
 - [__Bengali Transliteration__](https://github.com/sagorbrur/bntranslit)
 
 ## PDF Version of Full Resume
-- [PDF](https://drive.google.com/file/d/1KCiR0kjtg0qIggdWnK5wiWzlrDEikgvp/view?usp=sharing)
+- [PDF](https://drive.google.com/file/d/1bzl0qlO4_HTl2-l6LbsPdFTU992g0I6L/view?usp=sharing)
