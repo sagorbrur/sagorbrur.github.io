@@ -9,6 +9,7 @@ excerpt: This page contains different resource for learning
 - [Git](https://sagorbrur.github.io/git/)
 - [Tools](https://sagorbrur.github.io/tools/)
 - [Books](https://sagorbrur.github.io/books/)
+- [Python](https://sagorbrur.github.io/python)
 - [Courses](https://sagorbrur.github.io/courses/)
 - [Computer Vision](https://sagorbrur.github.io/computer-vision/)
 - [Pytorch Resources](https://sagorbrur.github.io/pytorch/)
