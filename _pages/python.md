@@ -10,3 +10,4 @@ excerpt: This page contains different resource of python
 - [pytest](https://www.tutorialspoint.com/pytest/index.htm)
 - [REST API](https://realpython.com/api-integration-in-python/)
 - [Python deprecation](https://dev.to/hckjck/python-deprecation-2mof)
+- [Python OOP](https://www.pythontutorial.net/python-oop/)
