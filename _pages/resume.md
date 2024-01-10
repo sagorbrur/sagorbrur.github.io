@@ -5,6 +5,9 @@ classes: wide
 excerpt: Professional resume
 ---
 
+## Full Resume
+- [Resume overleaf](https://www.overleaf.com/read/zhpnfngfjphd#e71110)
+
 ## Working/Research Interest
 - Natural Language Processing (NLP)
 - Deep Learning (DL)
@@ -22,5 +25,3 @@ excerpt: Professional resume
 - [__Bangla Transformers Package__](https://github.com/sagorbrur/bntransformer)
 - [__Bengali Transliteration__](https://github.com/sagorbrur/bntranslit)
 
-## PDF Version of Full Resume
-- [PDF](https://drive.google.com/file/d/1bzl0qlO4_HTl2-l6LbsPdFTU992g0I6L/view?usp=sharing)
