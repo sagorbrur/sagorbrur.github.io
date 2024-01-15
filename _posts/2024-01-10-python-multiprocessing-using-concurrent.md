@@ -3,6 +3,7 @@ title: "Multiprocessing using concurrent in python"
 date: 2024-01-10
 categories:
   - python
+  - large file processing
 classes: wide
 excerpt: In this blog I will share how to do multiprocessing using concurrent in python
 ---

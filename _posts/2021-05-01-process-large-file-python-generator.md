@@ -3,6 +3,7 @@ title: "Process Large Corpora Using Python Generator"
 date: 2021-05-01
 categories:
   - python
+  - large file processing
 classes: wide
 excerpt: This blog describe how to process large corpora using python generator
 ---

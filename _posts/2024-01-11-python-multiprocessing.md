@@ -3,6 +3,7 @@ title: "Multiprocessing example in python over pandas dataframe"
 date: 2024-01-11
 categories:
   - python
+  - large file processing
 classes: wide
 excerpt: In this blog I will share how to do simple multiprocessing in python over pandas dataframe
 ---
