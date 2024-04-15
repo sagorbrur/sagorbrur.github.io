@@ -59,9 +59,18 @@ tokenize_dataset = dataset.map(tokenize_data, num_proc=num_proc)
   dataset.save_to_disk("/path/mybndatasets", max_shard_size="10GB", num_proc=64)
 
   ```
-  
+
 - rename all data files to `train-**-**.arrow` format instead of `data-**-**.arrow` format
 - clone the huggingface dataset repository and move all the files to `data` folder
 - commit and push the datasets
+- Repository directory structure will be following
+
+  ```
+  data/
+    train-00000-of-00001.arrow
+    test-00000-of-00001.arrow
+  .gitattributes
+  
+  ```
 
 
