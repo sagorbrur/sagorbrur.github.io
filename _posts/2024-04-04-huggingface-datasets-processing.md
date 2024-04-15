@@ -42,3 +42,26 @@ num_proc = 10 # number of processing (multiprocessing purpose)
 tokenize_dataset = dataset.map(tokenize_data, num_proc=num_proc)
 
 ```
+
+## Upload large data to hub
+- Load the large datasets
+- Shard and save the datasets to local disk
+
+  ```py
+  from datasets import load_dataset
+
+  dataset = load_dataset(
+      "json",
+      data_files="/path/largedata.jsonl",
+      cache_dir="/path/cached"
+  )
+
+  dataset.save_to_disk("/path/mybndatasets", max_shard_size="10GB", num_proc=64)
+
+  ```
+  
+- rename all data files to `train-**-**.arrow` format instead of `data-**-**.arrow` format
+- clone the huggingface dataset repository and move all the files to `data` folder
+- commit and push the datasets
+
+
