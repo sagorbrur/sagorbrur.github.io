@@ -73,4 +73,9 @@ tokenize_dataset = dataset.map(tokenize_data, num_proc=num_proc)
   
   ```
 
+## Git LFS problem for JSONL file
+- Before adding file `git lfs install`
+- Also do this `huggingface-cli lfs-enable-largefiles .`
+- For `JSONL` file update .gitattribute file by `git lfs track "*.jsonl"`
+- Now add, commit and push
 
