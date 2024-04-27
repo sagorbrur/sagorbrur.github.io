@@ -38,10 +38,10 @@ arg.add_argument("-v1", "--value1", required=True,
    help="first value")
 arg.add_argument("-v2", "--value2", required=True,
    help="second value")
-args = vars(arg.parse_args())
+args = arg.parse_args()
 
 # Calculate the sum
-print("Sum is {}".format(int(args['value1']) + int(args['value2'])))
+print("Sum is {}".format(int(args.value1) + int(args.value2)))
 
 ```
 
@@ -72,10 +72,10 @@ arg = argparse.ArgumentParser()
 # add argument
 arg.add_argument("-n", "--name", default='Sagor',
    help="Enter your name")
-args = vars(arg.parse_args())
+args = arg.parse_args()
 
 # Calculate the sum
-print('Your name is {}'.format(args['name']))
+print('Your name is {}'.format(args.name))
 ```
 
 **compile**
@@ -102,11 +102,11 @@ arg = argparse.ArgumentParser()
 # add argument
 arg.add_argument("-n", "--value", type=int,
    help="Enter int value")
-args = vars(arg.parse_args())
+args = arg.parse_args()
 
 # Calculate the sum
-print('The value is {}'.format(args['value']))
-print('value type is: ', type(args['value']))
+print('The value is {}'.format(args.value))
+print('value type is: ', type(args.value))
 ```
 
 **compile**
