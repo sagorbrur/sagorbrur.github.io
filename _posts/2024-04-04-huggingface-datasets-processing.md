@@ -73,6 +73,18 @@ tokenize_dataset = dataset.map(tokenize_data, num_proc=num_proc)
   
   ```
 
+## Save dataset as CSV
+```py
+import pandas as pd
+from datasets import load_dataset
+
+
+dataset = load_dataset('hishab/boolq_bn')
+
+df = pd.DataFrame(dataset['validation'])
+df.to_csv('test.csv', index=False)
+```
+
 ## Git LFS problem for JSONL file
 - Before adding file `git lfs install`
 - Also do this `huggingface-cli lfs-enable-largefiles .`
