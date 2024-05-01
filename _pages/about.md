@@ -5,12 +5,11 @@ classes: wide
 excerpt: Learn about me, my current endeavors, research interest areas, and the motive behind this personal blog.
 ---
 
-I am an Natural Language Processing (NLP) engineer with more than 5-year experience in building, training, and evaluating data-dependent deep learning models and deploying the models for production. My strongest skills are natural language processing(NLP) and deep learning. Previously I work with companies in the AI domain and closely gather knowledge about how machine learning models can build and integrate with an enterprise.
-I have built some open source projects based on NLP and my project is being widely used by the NLP community.
+With over 6 years of dedicated experience in Natural Language Processing (NLP), I am a seasoned engineer specializing in leading LLM teams at Hishab. My expertise encompasses a wide array of areas within NLP, including building, training, and evaluating data-dependent deep learning models tailored for real-world applications. I have spearheaded the development of LLM-based products and pioneered the creation of domain-specific LLMs optimized for specific tasks. My proficiency extends to deploying these models in production environments, ensuring seamless integration and performance.
 
-My research/working interest is in natural language processing and deep learning.
+Having previously collaborated with leading companies in the AI domain, I have honed my skills and acquired valuable insights into the intricacies of machine learning model development and enterprise integration. Furthermore, I have contributed to the NLP community through the creation of open-source projects that have garnered widespread adoption and acclaim.
 
-My main motive behind this blog is to keep track of my learning and share my knowledge and experiences with the NLP community.
+My research and professional interests lie at the intersection of natural language processing and deep learning, where I continually strive to push the boundaries of innovation and knowledge advancement. Through this blog, I aim to document my ongoing learning journey, share valuable insights and experiences, and contribute to the collective growth of the NLP community.
 
 **Get in touch**  
 Please feel free to get in touch via [email](mailto:brursagor@gmail.com). 
