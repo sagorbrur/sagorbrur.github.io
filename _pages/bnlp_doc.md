@@ -1,5 +1,5 @@
 ---
-permalink: /bnlp/
+permalink: /bnlp_doc/
 title: "BNLP Documentation"
 classes: wide
 excerpt: BNLP Tool documentation and details
