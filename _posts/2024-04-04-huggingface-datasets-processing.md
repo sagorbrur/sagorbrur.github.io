@@ -85,7 +85,42 @@ df = pd.DataFrame(dataset['validation'])
 df.to_csv('test.csv', index=False)
 ```
 
+## Push Datasets to Dataset Hub Using code
+This is the best option for pushing datasets to hub
+
+```py
+from datasets import Dataset, DatasetDict
+# load datasets from jsonl files
+mydata = Dataset.from_json(
+    "/path/mydataset/*.jsonl",
+    cache_dir="/path/cache_dir"
+)
+mydata2 = Dataset.from_json(
+    "/path/mydataset2/*.jsonl",
+    cache_dir="/path/cache_dir"
+)
+# now add category and split
+# Create the main dataset dictionary with subsets
+dataset_dict = DatasetDict({
+    "mydata": DatasetDict({
+        "train": mydata
+    }),
+    "mydata2": mydata2
+})
+
+# push to hub
+dataset_dict.push_to_hub("sagor/mydata")
+
+```
+In viewer it will show Subset as the mydata and mydata2 and split for mydata as train
+
+NB: You need to login huggingface by
+
+`huggingface-cli login`
+
 ## Git LFS problem for JSONL file
+If you clone repo and push by git then this option might help
+
 - Before adding file `git lfs install`
 - Also do this `huggingface-cli lfs-enable-largefiles .`
 - For `JSONL` file update .gitattribute file by `git lfs track "*.jsonl"`
