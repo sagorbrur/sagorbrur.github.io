@@ -85,7 +85,7 @@ df = pd.DataFrame(dataset['validation'])
 df.to_csv('test.csv', index=False)
 ```
 
-## Push Datasets to Dataset Hub Using code
+## Dataset Subset and Split
 This is the best option for pushing datasets to hub
 
 ```py
@@ -101,15 +101,17 @@ mydata2 = Dataset.from_json(
 )
 # now add category and split
 # Create the main dataset dictionary with subsets
-dataset_dict = DatasetDict({
-    "mydata": DatasetDict({
-        "train": mydata
-    }),
-    "mydata2": mydata2
+mydata_dict = DatasetDict({
+    "train": mydata
+})
+
+mydata1_dict = DatasetDict({
+    "train": mydata1
 })
 
 # push to hub
-dataset_dict.push_to_hub("sagor/mydata")
+mydata_dict.push_to_hub("sagor/mydata", config_name="mydata")
+mydata1_dict.push_to_hub("sagor/mydata", config_name="mydata1")
 
 ```
 In viewer it will show Subset as the mydata and mydata2 and split for mydata as train
